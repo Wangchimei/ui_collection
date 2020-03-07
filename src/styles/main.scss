@@ -1,0 +1,13 @@
+@import 'partials/reset';
+@import 'partials/variables';
+@import 'partials/mixins';
+@import 'partials/tooltip';
+
+body {
+  font-size: 1.5em;
+}
+
+.container {
+  margin: 40px;
+  margin-top: 60px;
+}
