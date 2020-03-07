@@ -1,3 +1,5 @@
+import '../styles/tooltip.scss';
+
 class Tooltip {
   constructor(element) {
     this.element = element;
